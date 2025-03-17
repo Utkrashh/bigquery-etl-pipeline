@@ -64,6 +64,6 @@ Logs are stored in the `logs/` directory to track execution and errors.
 - 📈 **Data validation and transformation steps**
 
 ---
-**Author:** Your Name  
+**Author:** Rana Utkarsh Singh
 📧 Contact: utkrashh@gmail.com
 
