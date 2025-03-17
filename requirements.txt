@@ -1,0 +1,6 @@
+pandas
+google-cloud-bigquery
+google-cloud-storage
+python-dotenv
+pyarrow  # Required for handling Parquet files
+openpyxl  # Required for handling Excel files
